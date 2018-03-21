@@ -20,8 +20,7 @@ public class Main {
         Student student4 = new Student("Jan", "Nowak",123123);
         student4.pokazDane();
         
-        
-        
+        Wpis.main();
     }
     
 }
